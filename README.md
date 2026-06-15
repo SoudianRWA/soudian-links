@@ -4,7 +4,7 @@ Static GitHub Pages link collection for Soudian.
 
 ## Links
 
-- Website: https://soudian.ai
+- Website: https://sodian.ai
 - Discord: https://discord.gg/8Zs2Wcbrc
 - Telegram: https://t.me/SoudianRWA
 
