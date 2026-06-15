@@ -4,7 +4,7 @@ Static GitHub Pages link collection for Soudian.
 
 ## Links
 
-- Website: https://sodian.ai
+- Website: https://soudian.ai
 - Discord: https://discord.gg/8Zs2Wcbrc
 - Telegram: https://t.me/SoudianRWA
 
@@ -16,4 +16,3 @@ Static GitHub Pages link collection for Soudian.
 4. Set the source to `Deploy from a branch`.
 5. Select the `main` branch and `/root`.
 6. Save, then wait for GitHub to publish the Pages URL.
-
