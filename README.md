@@ -7,7 +7,7 @@ Static GitHub Pages link collection for Soudian.
 - Website: https://soudian.ai/
 - X: https://x.com/soudianAi
 - YouTube: https://www.youtube.com/@Soudian
-- Discord: https://discord.gg/8Zs2Wcbrc
+- Discord: https://discord.gg/S2snMTEs6N
 - Telegram: https://t.me/SoudianRWA
 - Medium: https://medium.com/@soudian369
 
